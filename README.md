@@ -1,5 +1,5 @@
 # LITECOIN PRICE PREDICTION USING LSTM ALGORITHM
-**Proyek Klasifikasi untuk Memprediksi Harga Mata Uang Kripto Litecoin Menggunakan Algoritma Long Short Term Memory**
+**Proyek Analisis Prediksi Harga Mata Uang Kripto Litecoin Menggunakan Algoritma Long Short Term Memory**
 
 📌 **Dibuat untuk**: Skripsi gelar Sarjana S1 Teknik Informatika
 
